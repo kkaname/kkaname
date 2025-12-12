@@ -1,5 +1,5 @@
 ## 👋 Hey there, I’m Kaname
-Real Name:Ayush Hegde
+Real Name:Ayush Hegde.\n
 Embedded Systems | Low-Level Programming | Linux Internals
 
 ## 🧩 About Me
