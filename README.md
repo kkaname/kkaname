@@ -2,7 +2,7 @@
 Real Name: Ayush Hegde.<br/>
 Embedded Systems | Low-Level Programming | Linux Internals<br/>
 
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on low-level C programming, embedded systems, and systems-level projects and Edge AI<br>🤝 I’m looking for help with Datasheets, debugging, and hardware–software interaction<br>🌱 I’m currently learning C internals, computer architecture, microcontroller/processors, ARM Cortex-M<br>💬 Ask me about : C, embedded fundamentals, bare-metal work.<br>⚡ Fun fact: Most of my debugging and work runs on coffee and caffeine.
+🔭 I’m currently working on low-level programming, computer architecture, firmware and mainly interacting with the hardware from software perspective<br>👯 I’m looking to collaborate on low-level C programming, embedded systems, and systems-level projects and Edge AI<br>🤝 I’m looking for help with Datasheets, debugging, and hardware–software interaction<br>🌱 I’m currently learning C internals, computer architecture, microcontroller/processors, ARM Cortex-M<br>💬 Ask me about : C, embedded fundamentals, bare-metal work.<br>⚡ Fun fact: Most of my debugging and work runs on coffee and caffeine.
 
 
 ## 🌐 Socials:
