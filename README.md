@@ -1,8 +1,9 @@
 ## 👋 Hey there, I’m Kaname,
 Real Name: Ayush Hegde.<br/>
-Embedded Systems | Low-Level Programming | Linux Internals<br/>
 
-🔭 I’m currently working on low-level programming, computer architecture, firmware and mainly on interacting with the hardware from software perspective<br>👯 I’m looking to collaborate on low-level C programming, embedded systems, and systems-level projects and Edge AI<br>🤝 I’m looking for help with tips, guidance, debugging, and hardware–software interaction<br>🌱 I’m currently learning C internals, computer architecture, microcontroller/processors, ARM Cortex-M<br>💬 Ask me about : C, embedded fundamentals, bare-metal work.<br>⚡ Fun fact: Most of my debugging and work runs on coffee and caffeine.
+Embedded Systems • Low-Level C • Firmware •  Linux Internals<br/>
+Building firmware and systems that talk directly to hardware.<br/>
+I work close to the silicon.<br/>
 
 
 ## 🌐 Socials:
