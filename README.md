@@ -3,6 +3,11 @@
 # 👋 Hey there, I’m Kaname
 
 </div>
+
+<div>
+  ## Not gifted. Just relentless.
+</div>
+
 Real Name: Ayush Hegde.<br/>
 
 Embedded Systems • Low-Level C • Firmware •  Linux Internals<br/>
