@@ -1,6 +1,6 @@
 <div = align="center">
   
-# 👋 Hey there, I’m Kaname (Aush Hegde)
+# 👋 Hey there, I’m Kaname (Ayush Hegde)
 
 </div>
 
