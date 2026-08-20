@@ -1,6 +1,6 @@
 <div = align="center">
   
-# 👋 Hey there, I’m Kaname
+# 👋 Hey there, I’m Kaname (Aush Hegde)
 
 </div>
 
@@ -10,7 +10,6 @@
   
 </div>
 
-Real Name: Ayush Hegde.<br/>
 
 Embedded Systems • Low-Level C • Firmware •  Linux Internals<br/>
 Building firmware and systems that talk directly to hardware.<br/>
