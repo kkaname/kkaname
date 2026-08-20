@@ -4,7 +4,7 @@
 
 </div>
 
-<div = aign="center">
+<div = align="center">
   
 ## Not gifted. Just relentless.
   
