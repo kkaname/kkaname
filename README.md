@@ -4,8 +4,10 @@
 
 </div>
 
-<div>
-  ## Not gifted. Just relentless.
+<div = aign="center">
+  
+## Not gifted. Just relentless.
+  
 </div>
 
 Real Name: Ayush Hegde.<br/>
