@@ -7,7 +7,7 @@ Real Name: Ayush Hegde.<br/>
 
 Embedded Systems • Low-Level C • Firmware •  Linux Internals<br/>
 Building firmware and systems that talk directly to hardware.<br/>
-I work close to the silicon.<br/>
+I love working close to the silicon.<br/>
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@ I work close to the silicon.<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=kkaname&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
